@@ -1,5 +1,7 @@
 @app
-sing-4hk
+cake-w8p
+
+@static
 
 @http
 get /
